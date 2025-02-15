@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi Everyone 👋
+Perkenalkan nama saya **Julhan Abdul Malik**.<br>
+
+Saya seorang **Full Stack Developer** belajar di [Dicoding](https://www.dicoding.com/).<br>
+- 🌱 I’m currently learning Dicoding
 
 <!--
 **JulhanAbdulMalik/JulhanAbdulMalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
