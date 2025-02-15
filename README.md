@@ -1,8 +1,8 @@
 ## Hi Everyone 👋
-Perkenalkan nama saya **Julhan Abdul Malik**.<br>
+Hi, I’m **Julhan Abdul Malik**, a final-year student at Nusa Putra University, majoring in Information Technology, with a GPA of 3.91. I have a strong passion for and extensive experience in Software Engineering, starting from vocational education, internships, programmer training, to professional work experience.
 
-Saya seorang **Full Stack Developer** belajar di [Dicoding](https://www.dicoding.com/).<br>
-- 🌱 I’m currently learning Dicoding
+
+
 
 <!--
 **JulhanAbdulMalik/JulhanAbdulMalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
