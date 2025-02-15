@@ -1,7 +1,13 @@
 ## Hi Everyone 👋
 Hi, I’m **Julhan Abdul Malik**, a final-year student at Nusa Putra University, majoring in Information Technology, with a GPA of 3.91. I have a strong passion for and extensive experience in Software Engineering, starting from vocational education, internships, programmer training, to professional work experience.
 
-
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <!--
