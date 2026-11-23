@@ -13,7 +13,6 @@
     <a href="https://www.julhan.my.id/"><img src="https://img.shields.io/badge/Website-julhan.my.id-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="mailto:julhanabdulmalik@gmail.com"><img src="https://img.shields.io/badge/Email-julhanabdulmalik%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://wa.me/6283111030309?text=Halo%20Julhan,%20saya%20melihat%20GitHub%20Anda%20dan%20tertarik%20untuk%20berkolaborasi."><img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-    <a href="https://www.julhan.my.id/cv-julhan-abdul-malik-ats.pdf"><img src="https://img.shields.io/badge/Resume-ATS%20CV-4B5563?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV ATS" /></a>
   </p>
 
 </div>
