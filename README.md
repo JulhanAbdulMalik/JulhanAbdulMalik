@@ -79,8 +79,8 @@ I specialize in engineering high-performance, clean-architecture web application
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JulhanAbdulMalik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Julhan's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulhanAbdulMalik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JulhanAbdulMalik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulhanAbdulMalik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
